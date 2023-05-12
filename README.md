@@ -22,7 +22,7 @@
 <h2 align="center">📊 My Github Stats</h2>
 <div>
  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=DeveshSuryawanshi&theme=tokyonight&hide_border=false" alt="Devesh" height="250px" width="47%" />
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=DeveshSuryawanshi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" width="100%"/>
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=DeveshSuryawanshi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="255px" width="47%"/>
 </div>
   </br>
 <div>
