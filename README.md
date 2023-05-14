@@ -6,8 +6,9 @@
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/devesh-suryawanshi-690393243/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
-<!-- [(https://www.linkedin.com/in/Devesh Suryawanshi/)]   -->
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Devesh Surywanshi) [![Instagram](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Devesh Suryawanshi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@CrazyDevesh) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@DeveshSuryawanshi) 
+<a href="https://twitter.com/@CrazyDevesh"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='linkedin' height='40'></a>
+<!-- (https://www.linkedin.com/in/Devesh Suryawanshi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@CrazyDevesh)   -->
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Devesh Surywanshi) [![Instagram](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@CrazyDevesh) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@DeveshSuryawanshi) 
 
 
 # 💻 Tech Stack:
