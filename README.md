@@ -1,7 +1,7 @@
 ### Hi there I am Devesh Suryawanshi 👋
 
 # 💫 About Me:
-### A passionate full-stack web developer from India who loves to build amazing projects and work in a team.
+### Aspiring Full Stack Developer with a passion for learning and a drive to create innovative solutions from the ground up.
 
 <br>
 Portfolio :- https://deveshsuryawanshi.github.io/
