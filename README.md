@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there I am Devesh Suryawanshi 👋
 
 # 💫 About Me:
-🔭 I’m from maharastra shirpur<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with <br>🌱 I’m currently learning full satck development <br>💬 Ask me about<br>⚡ Fun fact
+<h1>A passionate full-stack web developer from India who loves to build amazing projects and work in a team.<h1/>
 
 <br>
 Portfolio :- https://deveshsuryawanshi.github.io/
