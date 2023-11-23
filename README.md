@@ -1,4 +1,5 @@
-![Banner]
+<img src="https://github.com/DeveshSuryawanshi/DeveshSuryawanshi/blob/main/Utilities/LinkdIn%20Banner.png" />
+
 ### Hi there I am Devesh Suryawanshi 👋
 
 # 💫 About Me:
