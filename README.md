@@ -9,7 +9,7 @@ Portfolio :- https://deveshsuryawanshi.github.io/
 
 <br/>
 
-## 🌐 Socials:
+## 🌐 Socials
 <a href="https://www.linkedin.com/in/devesh-suryawanshi-690393243/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
 <a href="https://twitter.com/@CrazyDevesh"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='linkedin' height='40'></a>
 <a href="https://www.facebook.com/Devesh Surywanshi"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='linkedin' height='40'></a>
