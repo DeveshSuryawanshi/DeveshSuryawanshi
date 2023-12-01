@@ -1,4 +1,4 @@
-<img src="https://github.com/DeveshSuryawanshi/DeveshSuryawanshi/blob/main/Utilities/LinkdIn%20Banner.png" />
+<img src="https://i.pinimg.com/originals/d5/f3/e7/d5f3e7e33f8072785936fe88cd16f502.gif" />
 
 ### Hi there I am Devesh Suryawanshi 👋
 
