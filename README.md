@@ -7,6 +7,7 @@
 
 Portfolio :- https://deveshsuryawanshi.github.io/
 
+<br/>
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/devesh-suryawanshi-690393243/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
