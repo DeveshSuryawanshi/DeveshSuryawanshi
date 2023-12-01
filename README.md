@@ -5,7 +5,6 @@
 # About Me:
 ### Aspiring Full Stack Developer with a passion for learning and a drive to create innovative solutions from the ground up.
 
-<br>
 Portfolio :- https://deveshsuryawanshi.github.io/
 
 
