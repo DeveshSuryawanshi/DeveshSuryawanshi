@@ -21,10 +21,10 @@
         <a href="https://deveshsuryawanshi.github.io/">
           <h3 style="color: cyan;   text-decoration: underline;">Portfolio</h3>
         </a>
-        <img align="right" src="https://visitcount.itsvg.in/api?id=DeveshSuryawanshi&icon=0&color=6)](https://visitcount.itsvg.in" alt="error" style="background-color: blueviolet"/>
+        <img  src="https://visitcount.itsvg.in/api?id=DeveshSuryawanshi&icon=0&color=6)](https://visitcount.itsvg.in" alt="error" style="background-color: blueviolet"/>
     </div>
     <div>
-        <img src="https://i.pinimg.com/originals/c9/42/66/c94266ef81312ec1fc55031d359fa049.gif" alt="error" width="300px" style="border-radius: 10px;"/>
+        <img align="right" src="https://i.pinimg.com/originals/c9/42/66/c94266ef81312ec1fc55031d359fa049.gif" alt="error" width="300px" style="border-radius: 10px;"/>
     </div>
   </div>
   <h2 style="width: 95%; margin: 10px auto;">🌐 Socials</h2>
