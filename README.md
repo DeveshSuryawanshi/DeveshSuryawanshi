@@ -22,7 +22,6 @@
         <a href="https://deveshsuryawanshi.github.io/">
           <h3 style="color: cyan;   text-decoration: underline;">Portfolio</h3>
         </a>
-         
     </div>
     <div>
     </div>
