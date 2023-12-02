@@ -22,7 +22,7 @@
         <a href="https://deveshsuryawanshi.github.io/">
           <h3 style="color: cyan;   text-decoration: underline;">Portfolio</h3>
         </a>
-        <img  src="https://visitcount.itsvg.in/api?id=DeveshSuryawanshi&icon=0&color=6)](https://visitcount.itsvg.in" alt="error" style="background-color: blueviolet"/>
+        <img  src="https://visitcount.itsvg.in/api?id=DeveshSuryawanshi&icon=0&color=6)](https://visitcount.itsvg.in" alt="error" />
     </div>
     <div>
     </div>
