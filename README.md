@@ -22,7 +22,7 @@
         <a href="https://deveshsuryawanshi.github.io/">
           <h3 style="color: cyan;   text-decoration: underline;">Portfolio</h3>
         </a>
-         [![](https://visitcount.itsvg.in/api?id=DeveshSuryawanshi&icon=0&color=6)](https://visitcount.itsvg.in)
+         
     </div>
     <div>
     </div>
@@ -54,3 +54,5 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveshSuryawanshi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="error" width="300px"/>
    </div>
 </div>
+
+[![](https://visitcount.itsvg.in/api?id=DeveshSuryawanshi&icon=0&color=6)](https://visitcount.itsvg.in)
