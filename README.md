@@ -8,6 +8,7 @@
 
   <div style="display: flex; justify-content: space-between; background-color: #1b1f2f; padding: 10px;border-radius: 10px; height: 200px; width: 95%; margin: auto;">
    <div>
+        <img align="right" src="https://i.pinimg.com/originals/c9/42/66/c94266ef81312ec1fc55031d359fa049.gif" alt="error" width="300px" style="border-radius: 10px;"/>
         🔭 I’m from maharastra shirpur
         <br>
         👯 I’m looking to collaborate on Projects
@@ -17,7 +18,6 @@
         💬 Ask me about web development
         <br>
         ⚡ Fun fact I am funny
-        <img align="right" src="https://i.pinimg.com/originals/c9/42/66/c94266ef81312ec1fc55031d359fa049.gif" alt="error" width="300px" style="border-radius: 10px;"/>
         <br>
         <a href="https://deveshsuryawanshi.github.io/">
           <h3 style="color: cyan;   text-decoration: underline;">Portfolio</h3>
