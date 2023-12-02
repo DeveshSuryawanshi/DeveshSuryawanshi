@@ -4,7 +4,8 @@
 
 <div style="background-color: #1b1f2f; border-radius: 10px; padding: 10px;">
 
-<h3 style="text-align: center">Aspiring Full Stack Developer with a passion for learning and a drive to create innovative solutions from the ground up.</h3 >
+# About Me
+#### Aspiring Full Stack Developer with a passion for learning and a drive to create innovative solutions from the ground up.
 
   <div style="display: flex; justify-content: space-between; background-color: #1b1f2f; padding: 10px;border-radius: 10px; height: 200px; width: 95%; margin: auto;">
    <div>
