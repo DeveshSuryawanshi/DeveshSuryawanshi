@@ -50,7 +50,7 @@
    <h2 style="width: 95%; margin: 10px auto;">📊 GitHub Stats</h2>
    <div style=" width:95%;margin: auto; display: flex; flex-direction: column;">
     <img src="https://github-readme-stats.vercel.app/api?username=DeveshSuryawanshi&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="error" width="300px"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveshSuryawanshi&theme=radical&hide_border=false" alt="error" width="350px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveshSuryawanshi&theme=radical&hide_border=false" alt="error" width="330px"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveshSuryawanshi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="error" width="300px"/>
    </div>
 </div>
