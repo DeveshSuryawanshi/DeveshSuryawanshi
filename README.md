@@ -21,7 +21,7 @@
         ⚡ Fun fact I am funny
         <br>
         <a href="https://deveshsuryawanshi.github.io/">
-          <h3 style="color: cyan;   text-decoration: underline;">Portfolio</h3>
+          <h3 style="color: cyan;   text-decoration: underline;">Portfolio = https://deveshsuryawanshi.github.io/</h3>
         </a>
     </div>
     <div>
