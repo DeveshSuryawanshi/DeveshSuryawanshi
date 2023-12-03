@@ -9,7 +9,7 @@
 
   <div style="display: flex; justify-content: space-between; background-color: #1b1f2f; padding: 10px;border-radius: 10px; height: 200px; width: 95%; margin: auto;">
    <div>
-        <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="error" width="300px" style="border-radius: 10px;"/>
+        <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="error" width="400" style="border-radius: 10px;"/>
         🔭 I’m from maharastra shirpur
         <br>
         👯 I’m looking to collaborate on Projects
