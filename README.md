@@ -9,6 +9,7 @@
 
   <div style="display: flex; justify-content: space-between; background-color: #1b1f2f; padding: 10px;border-radius: 10px; height: 200px; width: 95%; margin: auto;">
    <div>
+     <div class="tenor-gif-embed" data-postid="27705874" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/coding-gif-27705874">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
         <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="error" width="400" style="border-radius: 10px;"/>
         🔭 I’m from maharastra shirpur
         <br>
