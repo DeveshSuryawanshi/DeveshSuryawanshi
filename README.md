@@ -14,7 +14,7 @@
         <br>
         👯 I’m looking to collaborate on Projects
         <br>
-        🌱 I’m currently learning Next.JS
+        🌱 I’m currently learning React Native
         <br>
         💬 Ask me about web development
         <br>
